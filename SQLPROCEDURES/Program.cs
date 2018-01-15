@@ -10,6 +10,7 @@ namespace SQLPROCEDURES
     {
         static void Main(string[] args)
         {
+            int a;
         }
     }
 }
