@@ -10,7 +10,7 @@ namespace SQLPROCEDURES
     {
         static void Main(string[] args)
         {
-            int a;
+            int a = 2;
         }
     }
 }
